@@ -1,4 +1,4 @@
-![Grasshopper](https://learn.grasshopper.app/static/grasshopperLogo.png?raw=true)
+ ![image](https://user-images.githubusercontent.com/122075677/221747079-ac555beb-790c-4337-927b-c7545f8002ba.png) ![image](https://user-images.githubusercontent.com/122075677/221747126-b4edafe7-8c0a-45a3-91a5-015900ea675d.png)
 
 
 # Fundamentos
